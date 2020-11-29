@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Greta Cannon 
+2. Student ID: 2369434
+3. Email: grcannon@chapman.edu
+4. Class: 298-01
 5. Assignment: numbers 
 
 ## Application Purpose
