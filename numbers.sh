@@ -5,7 +5,7 @@
 echo "Please enter a postitive integer: "
 read NUMBER
 
-N=$1
+N=1
 
 while [ "$N" -le "$NUMBER" ]
 do
