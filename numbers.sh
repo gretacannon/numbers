@@ -12,9 +12,9 @@ do
 
 	if [ $((N%2)) -eq 0 ]
 	then
-		echo $N " Even"
+		echo "$N" " Even"
 	else
-		echo $N " Odd"
+		echo "$N" " Odd"
 	fi
 
 	N=$((N+1))
